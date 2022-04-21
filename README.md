@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charisse! 
-- 👀 I’m interested in JavaScript, PHP, and learning server-side languages. When I am not working on web projects I like to swim, read, play video games and paint. 
-- 🌱 I’m currently learning JavaScript, CSS, and PHP. 
+- 👀 I want to develop applications that are fast, secure, accessible and meet the client's needs! When I am not building applications I study Korean, swim, read, paint, crochet, play will my pets or play video games. ...👀 Elden Ring  
+- 🌱 How I am growing: PHP, JavaScript, C#, Java, ASP.NET MVC, and SQL 
 - 📫 Send me a direct message if you would like to collaborate! 
 
 <!---
